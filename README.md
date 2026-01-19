@@ -1,2 +1,2 @@
 # Delta-Lake
-A Delta Lakerepository
+A Delta Lake repository
