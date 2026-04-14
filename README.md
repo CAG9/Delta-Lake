@@ -1,8 +1,7 @@
 # Delta Lake
 A repository used to store info about Delta lake
 ## Author
-
-- Cesar Arcos Gonzalez cesar99ag@gmail.com
+Cesar Arcos Gonzalez cesar99ag@gmail.com
 
 ## License
 MIT
