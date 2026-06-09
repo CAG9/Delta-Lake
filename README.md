@@ -16,8 +16,6 @@ MIT
 * 7_DeltaLake.ipynb -> Change Data Feed
 * 8_DetaLake.ipynbn -> UniForm in Delta Lake
 * 9_DeltaLake.ipynb -> Delta Lake Optimization
-
-
 ## Tools and Technologies
 - Databricks
 - Pyspark
